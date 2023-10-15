@@ -1,2 +1,2 @@
-# I'm SOC Design student from NTHU,and my chinese name is 郭邑哲.
+# I'm SOC Design student from NTHU.
 
